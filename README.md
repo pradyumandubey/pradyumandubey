@@ -1,17 +1,44 @@
-## 👋 Hi, I’m Pradyuman Dubey
+<h2 align="center">Hi there 👋, I'm Pradyuman Dubey</h2>
 
-I'm a B.Tech Computer Science student (2021–2025) with hands-on experience in Java, Spring Boot, and React.js.  
-I enjoy building scalable backend systems and user-friendly web applications.
+<p align="center">
+  🚀 Java Backend Developer | 🧑‍💻 Full-Stack Developer | 🎓 B.Tech CSE '25  
+</p>
 
-- 🔧 Currently interning as a Web Developer at Scihub Semiconductor Solutions  
-- 🌱 Learning: Advanced Spring Boot, API Security, Docker, and System Design  
-- 💼 Past: Java Developer Intern at TechCospace | Built LMS, Job Portal, E-commerce projects  
-- 🤝 Open to collaborating on full-stack or backend projects  
-- 📫 Contact: [dubeypradyum2002@gmail.com](mailto:dubeypradyum2002@gmail.com) | [LinkedIn](https://linkedin.com/in/pradyuman-dubey)  
-- ⚡ Fun Fact: I ship clean code even during exam weeks 😄
+---
 
+### 🔧 About Me
 
-<!---
-pradyumandubey/pradyumandubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 B.Tech Computer Science student at AKTU (2021–2025)
+- 💻 Currently working as a **Web Developer Intern** at *Scihub Semiconductor Solutions*
+- ☕ Backend-focused: **Java**, **Spring Boot**, **REST APIs**, **MySQL**
+- 💡 Also experienced in **React.js** for building dynamic UIs
+
+---
+
+### 📚 Currently Learning
+
+- 🔐 Spring Security, JWT & OAuth2
+- 📦 Docker & containerized deployment
+- 🧠 System Design & Scalable Architecture
+- 📈 DSA for problem-solving & coding interviews
+
+---
+
+### 🤝 Let’s Collaborate
+
+- ⚙️ Full-stack or backend projects
+- 🛠️ Java + React-based apps
+- 🌱 Open-source contributions or internships
+
+---
+
+### 📫 Connect with Me
+
+- 📧 [dubeypradyum2002@gmail.com](mailto:dubeypradyum2002@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/pradyuman-dubey)
+- 💻 [GitHub](https://github.com/pradyumandubey)
+
+---
+
+### ⚡ Fun Fact
+I built an LMS, e-commerce site, and job portal backend — all while balancing exams and internships. I believe in **learning by building**. 💪
