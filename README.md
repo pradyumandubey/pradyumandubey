@@ -9,9 +9,9 @@
 ### 🔧 About Me
 
 - 🎓 B.Tech Computer Science student at AKTU (2021–2025)
-- 💻 Currently working as a **Web Developer Intern** at *Scihub Semiconductor Solutions*
+- 💻 Completed a **Web Development Internship** at *Scihub Semiconductor Solutions Pvt. Ltd.* in **May 2025**  
 - ☕ Backend-focused: **Java**, **Spring Boot**, **REST APIs**, **MySQL**
-- 💡 Also experienced in **React.js** for building dynamic UIs
+- 💡  Also experienced in **React.js** for building dynamic UIs
 
 ---
 
