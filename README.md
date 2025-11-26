@@ -1,17 +1,18 @@
 <h2 align="center">Hi there 👋, I'm Pradyuman Dubey</h2>
 
 <p align="center">
-  🚀 Java Backend Developer | 🧑‍💻 Full-Stack Developer | 🎓 B.Tech CSE '25  
+  🚀 Java Backend Developer | 🧑‍💻 Full-Stack Developer | 💼 Software Engineer
 </p>
 
 ---
 
 ### 🔧 About Me
 
-- 🎓 B.Tech Computer Science student at AKTU (2021–2025)
-- 💻 Completed a **Web Development Internship** at *Scihub Semiconductor Solutions Pvt. Ltd.* in **May 2025**  
-- ☕ Backend-focused: **Java**, **Spring Boot**, **REST APIs**, **MySQL**
-- 💡  Also experienced in **React.js** for building dynamic UIs
+- 🎓 Completed **B.Tech in Computer Science & Engineering (2021–2025)** from AKTU  
+- 💼 Currently working as a **Web Developer** at *Mtor Life Sciences Pvt. Ltd.*  
+- 💻 Former **Web Developer Intern** at *Scihub Semiconductor Solutions Pvt. Ltd.* (Feb 2025 – May 2025)  
+- ☕ Strong in **Java**, **JavaScript**, **SQL**, **Python **  
+
 
 ---
 
@@ -20,7 +21,7 @@
 - 🔐 Spring Security, JWT & OAuth2
 - 📦 Docker & containerized deployment
 - 🧠 System Design & Scalable Architecture
-- 📈 DSA for problem-solving & coding interviews
+- 📈 Problem-solving & coding interviews
 
 ---
 
