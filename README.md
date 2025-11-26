@@ -11,7 +11,7 @@
 - 🎓 Completed **B.Tech in Computer Science & Engineering (2021–2025)** from AKTU  
 - 💼 Currently working as a **Web Developer** at *Mtor Life Sciences Pvt. Ltd.*  
 - 💻 Former **Web Developer Intern** at *Scihub Semiconductor Solutions Pvt. Ltd.* (Feb 2025 – May 2025)  
-- ☕ Strong in **Java**, **JavaScript**, **SQL**, **Python **  
+- ☕ Strong in **Java**, **JavaScript**, **SQL**, **React Js**, **Python**  
 
 
 ---
